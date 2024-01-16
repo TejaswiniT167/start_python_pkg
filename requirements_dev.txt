@@ -13,5 +13,5 @@ ensure
 pytest==7.1.3  #for testing different use cases
 tox==3.25.1  #for creating test environment.
 black==22.8.0  #linting tools black, flake8
-flake8=5.0.4
+flake8==5.0.4
 mypy==0.971
