@@ -1,1 +1,1 @@
-This package provides the basic functionality of creaing, reading, updating and deleting data in the MongoDB.
+This package provides the basic functionality of creaing, reading, updating and deleting data in the MongoDB, while mainting Coninuous Integration with GitHub actions and handles Package deployment in PyPi.
