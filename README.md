@@ -1,0 +1,1 @@
+This package provides the basic functionality of connecting, retrieving, updating and deleting data in the MongoDB.
